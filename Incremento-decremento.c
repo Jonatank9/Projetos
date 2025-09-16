@@ -3,11 +3,15 @@
 int main() {
     /*
     Incremento (++)
-    Pré-incremento ++a
-    Pós-incremento a++
+    Pré-incremento ++a (aumenta o valor antes de usar)
+    Pós-incremento a++ (aumenta o valor depois de usar)
     Decremento (--)
-    Pré-decremento --a
-    Pós-decremento a--
+    Pré-decremento --a (aumenta o valor antes de usar)
+    Pós-decremento a-- (aumenta o valor depois de usar)
+
+    se o ++ estiver à esquerda afeta o numero à esquerda, 
+    se o ++ estiver à direita afeta o numero atribuido a ele
+    
     */
 
     int numero1 = 4, numero2 = 2, numero3 = 8, resultado, resultado2;
