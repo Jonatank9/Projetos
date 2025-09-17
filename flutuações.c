@@ -10,6 +10,9 @@ int main() {
     %f - float e double
     %Lf - long double
 
+    casting - conversão explícita de tipos
+    (tipo) valor
+
     */
 
     int a = 10, b = 3;
